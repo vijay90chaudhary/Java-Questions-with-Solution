@@ -1,3 +1,4 @@
+//WAP to reverse a String.
 import java.util.Scanner;
 
 public class reverseString {
